@@ -13,6 +13,7 @@ public class TestGit {
     String nombre = "Arturo Romero";
     String id = "00000244315";
     String carrera = "ISW";
+    
     int edad = 22;
     
 }
